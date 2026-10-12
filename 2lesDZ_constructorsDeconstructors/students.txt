@@ -1,0 +1,4 @@
+name: nazar
+age: 17
+marks: 3 10 8 9 
+average mark: 9

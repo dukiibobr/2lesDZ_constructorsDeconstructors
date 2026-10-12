@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2lesDZ_constructorsDeconstructors/2lesDZ_constructorsDeconstructors.vcxproj" />
+</Solution>
